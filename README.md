@@ -1,5 +1,5 @@
 ## Tampilan Aplikasi
-![Screenshot Aplikasi](screenshot1.png)
+![Screenshot Aplikasi](Screenshot 2026-02-19 215741.png)
 
 ## Deskripsi
 Aplikasi ini dibuat untuk mengimplementasikan
