@@ -1,4 +1,4 @@
-Nama : Radja Apprilla
+Nama : Radja Apprilla/n
 NIM : 123140084
 
 Aplikasi ini merupakan implementasi Kotlin Coroutines, Flow, dan StateFlow menggunakan arsitektur MVVM dengan Jetpack Compose.
