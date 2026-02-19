@@ -1,3 +1,6 @@
+## Tampilan Aplikasi
+![Screenshot Aplikasi](screenshot1.png)
+
 ## Deskripsi
 Aplikasi ini dibuat untuk mengimplementasikan
 Kotlin Flow, StateFlow, dan Coroutines.
