@@ -1,6 +1,3 @@
-## Radja Apprilla
-## 123140084
-
 ## Deskripsi
 Aplikasi ini dibuat untuk mengimplementasikan
 Kotlin Flow, StateFlow, dan Coroutines.
